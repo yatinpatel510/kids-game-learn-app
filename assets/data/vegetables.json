@@ -1,0 +1,14 @@
+[
+  { "id": "veg_1",  "name": "Carrot",     "emoji": "🥕", "fact": "Carrots are orange" },
+  { "id": "veg_2",  "name": "Broccoli",   "emoji": "🥦", "fact": "Broccoli is green" },
+  { "id": "veg_3",  "name": "Corn",       "emoji": "🌽", "fact": "Corn grows tall" },
+  { "id": "veg_4",  "name": "Tomato",     "emoji": "🍅", "fact": "Tomato is red" },
+  { "id": "veg_5",  "name": "Potato",     "emoji": "🥔", "fact": "Potatoes grow underground" },
+  { "id": "veg_6",  "name": "Onion",      "emoji": "🧅", "fact": "Onions make us cry" },
+  { "id": "veg_7",  "name": "Garlic",     "emoji": "🧄", "fact": "Garlic has strong smell" },
+  { "id": "veg_8",  "name": "Cucumber",   "emoji": "🥒", "fact": "Cucumbers are cool" },
+  { "id": "veg_9",  "name": "Eggplant",   "emoji": "🍆", "fact": "Eggplant is purple" },
+  { "id": "veg_10", "name": "Pepper",     "emoji": "🌶️", "fact": "Peppers can be spicy" },
+  { "id": "veg_11", "name": "Mushroom",   "emoji": "🍄", "fact": "Mushrooms grow in shade" },
+  { "id": "veg_12", "name": "Peanut",     "emoji": "🥜", "fact": "Peanuts grow underground" }
+]

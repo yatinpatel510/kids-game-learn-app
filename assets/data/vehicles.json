@@ -1,0 +1,14 @@
+[
+  { "id": "vehicle_1",  "name": "Car",        "emoji": "🚗",  "fact": "Cars run on roads" },
+  { "id": "vehicle_2",  "name": "Bus",        "emoji": "🚌",  "fact": "Buses carry many people" },
+  { "id": "vehicle_3",  "name": "Train",      "emoji": "🚂",  "fact": "Trains run on tracks" },
+  { "id": "vehicle_4",  "name": "Airplane",   "emoji": "✈️",  "fact": "Airplanes fly in sky" },
+  { "id": "vehicle_5",  "name": "Bicycle",    "emoji": "🚲",  "fact": "Bicycles have two wheels" },
+  { "id": "vehicle_6",  "name": "Boat",       "emoji": "⛵",  "fact": "Boats sail on water" },
+  { "id": "vehicle_7",  "name": "Rocket",     "emoji": "🚀",  "fact": "Rockets go to space" },
+  { "id": "vehicle_8",  "name": "Helicopter", "emoji": "🚁",  "fact": "Helicopters have rotors" },
+  { "id": "vehicle_9",  "name": "Truck",      "emoji": "🚚",  "fact": "Trucks carry heavy loads" },
+  { "id": "vehicle_10", "name": "Ambulance",  "emoji": "🚑",  "fact": "Ambulances help sick people" },
+  { "id": "vehicle_11", "name": "Fire Truck", "emoji": "🚒",  "fact": "Fire trucks fight fires" },
+  { "id": "vehicle_12", "name": "Ship",       "emoji": "🚢",  "fact": "Ships sail in ocean" }
+]

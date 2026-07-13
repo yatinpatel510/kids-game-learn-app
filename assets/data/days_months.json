@@ -1,0 +1,21 @@
+[
+  { "id": "day_1", "name": "Monday",    "emoji": "📅", "fact": "Monday is the first day of week" },
+  { "id": "day_2", "name": "Tuesday",   "emoji": "📅", "fact": "Tuesday comes after Monday" },
+  { "id": "day_3", "name": "Wednesday", "emoji": "📅", "fact": "Wednesday is the middle of week" },
+  { "id": "day_4", "name": "Thursday",  "emoji": "📅", "fact": "Thursday comes before Friday" },
+  { "id": "day_5", "name": "Friday",    "emoji": "🎉", "fact": "Friday is the last school day" },
+  { "id": "day_6", "name": "Saturday",  "emoji": "😊", "fact": "Saturday is a holiday" },
+  { "id": "day_7", "name": "Sunday",    "emoji": "☀️", "fact": "Sunday is a rest day" },
+  { "id": "month_1",  "name": "January",   "emoji": "❄️", "fact": "January is the first month" },
+  { "id": "month_2",  "name": "February",  "emoji": "💝", "fact": "February has 28 or 29 days" },
+  { "id": "month_3",  "name": "March",     "emoji": "🌸", "fact": "March brings spring" },
+  { "id": "month_4",  "name": "April",     "emoji": "🌧️", "fact": "April has rain showers" },
+  { "id": "month_5",  "name": "May",       "emoji": "🌺", "fact": "May has beautiful flowers" },
+  { "id": "month_6",  "name": "June",      "emoji": "☀️", "fact": "June starts summer" },
+  { "id": "month_7",  "name": "July",      "emoji": "🏖️", "fact": "July is hot and sunny" },
+  { "id": "month_8",  "name": "August",    "emoji": "🌻", "fact": "August has sunflowers" },
+  { "id": "month_9",  "name": "September", "emoji": "🍂", "fact": "September starts autumn" },
+  { "id": "month_10", "name": "October",   "emoji": "🎃", "fact": "October has Halloween" },
+  { "id": "month_11", "name": "November",  "emoji": "🍁", "fact": "November is cool" },
+  { "id": "month_12", "name": "December",  "emoji": "🎄", "fact": "December has Christmas" }
+]

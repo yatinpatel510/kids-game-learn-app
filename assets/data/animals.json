@@ -1,0 +1,14 @@
+[
+  { "id": "animal_1",  "name": "Lion",     "emoji": "🦁", "fact": "Lion is king of jungle" },
+  { "id": "animal_2",  "name": "Elephant", "emoji": "🐘", "fact": "Elephants never forget" },
+  { "id": "animal_3",  "name": "Tiger",    "emoji": "🐯", "fact": "Tigers have stripes" },
+  { "id": "animal_4",  "name": "Monkey",   "emoji": "🐵", "fact": "Monkeys love bananas" },
+  { "id": "animal_5",  "name": "Zebra",    "emoji": "🦓", "fact": "Zebras have black and white stripes" },
+  { "id": "animal_6",  "name": "Giraffe",  "emoji": "🦒", "fact": "Giraffes have long necks" },
+  { "id": "animal_7",  "name": "Bear",     "emoji": "🐻", "fact": "Bears love honey" },
+  { "id": "animal_8",  "name": "Fox",      "emoji": "🦊", "fact": "Foxes are clever" },
+  { "id": "animal_9",  "name": "Rabbit",   "emoji": "🐰", "fact": "Rabbits hop fast" },
+  { "id": "animal_10", "name": "Dog",      "emoji": "🐶", "fact": "Dogs are loyal friends" },
+  { "id": "animal_11", "name": "Cat",      "emoji": "🐱", "fact": "Cats love to sleep" },
+  { "id": "animal_12", "name": "Horse",    "emoji": "🐴", "fact": "Horses run very fast" }
+]

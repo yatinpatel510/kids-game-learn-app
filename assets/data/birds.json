@@ -1,0 +1,14 @@
+[
+  { "id": "bird_1",  "name": "Parrot",   "emoji": "🦜", "fact": "Parrots can talk" },
+  { "id": "bird_2",  "name": "Penguin",  "emoji": "🐧", "fact": "Penguins cannot fly" },
+  { "id": "bird_3",  "name": "Eagle",    "emoji": "🦅", "fact": "Eagles have sharp eyes" },
+  { "id": "bird_4",  "name": "Owl",      "emoji": "🦉", "fact": "Owls are active at night" },
+  { "id": "bird_5",  "name": "Flamingo", "emoji": "🦩", "fact": "Flamingos are pink" },
+  { "id": "bird_6",  "name": "Duck",     "emoji": "🦆", "fact": "Ducks love water" },
+  { "id": "bird_7",  "name": "Chicken",  "emoji": "🐔", "fact": "Chickens give us eggs" },
+  { "id": "bird_8",  "name": "Peacock",  "emoji": "🦚", "fact": "Peacocks have beautiful feathers" },
+  { "id": "bird_9",  "name": "Swan",     "emoji": "🦢", "fact": "Swans are graceful" },
+  { "id": "bird_10", "name": "Turkey",   "emoji": "🦃", "fact": "Turkeys have colorful feathers" },
+  { "id": "bird_11", "name": "Dove",     "emoji": "🕊️", "fact": "Doves are symbol of peace" },
+  { "id": "bird_12", "name": "Robin",    "emoji": "🐦", "fact": "Robins have red chest" }
+]

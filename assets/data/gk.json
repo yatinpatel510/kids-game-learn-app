@@ -1,0 +1,14 @@
+[
+  { "id": "gk_1",  "name": "Sun",      "emoji": "☀️", "fact": "Sun gives us light and heat" },
+  { "id": "gk_2",  "name": "Moon",     "emoji": "🌙", "fact": "Moon shines at night" },
+  { "id": "gk_3",  "name": "Star",     "emoji": "⭐", "fact": "Stars are far away suns" },
+  { "id": "gk_4",  "name": "Earth",    "emoji": "🌍", "fact": "Earth is our home planet" },
+  { "id": "gk_5",  "name": "Water",    "emoji": "💧", "fact": "Water is very important for life" },
+  { "id": "gk_6",  "name": "Fire",     "emoji": "🔥", "fact": "Fire gives heat and light" },
+  { "id": "gk_7",  "name": "Rainbow",  "emoji": "🌈", "fact": "Rainbow has 7 colors" },
+  { "id": "gk_8",  "name": "Cloud",    "emoji": "☁️", "fact": "Clouds bring rain" },
+  { "id": "gk_9",  "name": "Tree",     "emoji": "🌳", "fact": "Trees give us oxygen" },
+  { "id": "gk_10", "name": "Flower",   "emoji": "🌸", "fact": "Flowers have nice smell" },
+  { "id": "gk_11", "name": "Mountain", "emoji": "⛰️", "fact": "Mountains are very tall" },
+  { "id": "gk_12", "name": "Ocean",    "emoji": "🌊", "fact": "Ocean covers most of Earth" }
+]

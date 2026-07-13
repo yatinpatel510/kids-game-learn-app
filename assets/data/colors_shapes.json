@@ -1,0 +1,18 @@
+[
+  { "id": "color_1",  "name": "Red",    "emoji": "🔴", "fact": "Red is the color of fire" },
+  { "id": "color_2",  "name": "Blue",   "emoji": "🔵", "fact": "Blue is the color of sky" },
+  { "id": "color_3",  "name": "Green",  "emoji": "🟢", "fact": "Green is the color of grass" },
+  { "id": "color_4",  "name": "Yellow", "emoji": "🟡", "fact": "Yellow is the color of sun" },
+  { "id": "color_5",  "name": "Orange", "emoji": "🟠", "fact": "Orange is a warm color" },
+  { "id": "color_6",  "name": "Purple", "emoji": "🟣", "fact": "Purple is a royal color" },
+  { "id": "color_7",  "name": "White",  "emoji": "⬜", "fact": "White is the color of snow" },
+  { "id": "color_8",  "name": "Black",  "emoji": "⬛", "fact": "Black is the color of night" },
+  { "id": "color_9",  "name": "Pink",   "emoji": "🩷", "fact": "Pink is a soft color" },
+  { "id": "color_10", "name": "Brown",  "emoji": "🟫", "fact": "Brown is the color of soil" },
+  { "id": "shape_1",  "name": "Circle",   "emoji": "⭕", "fact": "A circle has no corners" },
+  { "id": "shape_2",  "name": "Square",   "emoji": "🟥", "fact": "A square has 4 equal sides" },
+  { "id": "shape_3",  "name": "Triangle", "emoji": "🔺", "fact": "A triangle has 3 sides" },
+  { "id": "shape_4",  "name": "Star",     "emoji": "⭐", "fact": "Stars shine at night" },
+  { "id": "shape_5",  "name": "Heart",    "emoji": "❤️", "fact": "Heart means love" },
+  { "id": "shape_6",  "name": "Diamond",  "emoji": "💎", "fact": "Diamond has 4 sides" }
+]

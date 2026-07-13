@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080776590836",
+    "project_id": "kids-game-app",
+    "storage_bucket": "kids-game-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080776590836:android:3c67f7780c3a45177025a1",
+        "android_client_info": {
+          "package_name": "com.kidsgame.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB33o9N5p1Zfcqy8G75km2yEIZ8hIZXpmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
