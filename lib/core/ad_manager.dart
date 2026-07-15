@@ -23,6 +23,12 @@ class AdManager {
   Future<void> initialize() async {
     try {
       await MobileAds.instance.initialize();
+      // Register test device ID to allow viewing test ads on your development device
+      await MobileAds.instance.updateRequestConfiguration(
+        RequestConfiguration(
+          testDeviceIds: ['BDD6A1E7DE36A9DB3AF463E5A722E87E'],
+        ),
+      );
       preloadRewardedAd();
     } catch (e) {
       debugPrint('AdManager: MobileAds initialization failed: $e');
