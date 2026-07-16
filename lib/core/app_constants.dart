@@ -1,11 +1,12 @@
 import 'package:flutter/material.dart';
 import 'app_colors.dart';
 
-const adMobAppId = "ca-app-pub-6951054569176297~6773578868"; //Live Android
-// const adMobAppId = "ca-app-pub-3940256099942544~3347511713"; //Testing Android
+// const adMobAppId = "ca-app-pub-6951054569176297~6773578868"; //Live Android com.kids
+// const adMobAppId = "ca-app-pub-6951054569176297~7930243286"; //Live Android com.myuniqu
+const adMobAppId = "ca-app-pub-3940256099942544~3347511713"; //Testing Android
 
-const adMobUnitId = "ca-app-pub-6951054569176297/1161591314"; //Live Android
-// const adMobUnitId = "ca-app-pub-3940256099942544/5224354917"; //Testing Android Rewarded
+// const adMobUnitId = "ca-app-pub-6951054569176297/3212148933"; //Live Android com.myuniqu
+const adMobUnitId = "ca-app-pub-3940256099942544/5224354917"; //Testing Android Rewarded
 
 class CategoryDef {
   final String id;

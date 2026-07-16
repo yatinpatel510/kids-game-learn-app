@@ -1,26 +1,52 @@
 {
   "project_info": {
-    "project_number": "1080776590836",
-    "project_id": "kids-game-app",
-    "storage_bucket": "kids-game-app.firebasestorage.app"
+    "project_number": "856969822003",
+    "project_id": "kids-f3fbe",
+    "storage_bucket": "kids-f3fbe.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1080776590836:android:3c67f7780c3a45177025a1",
+        "mobilesdk_app_id": "1:856969822003:android:c697decc5ca009a600c846",
         "android_client_info": {
-          "package_name": "com.kidsgame.app"
+          "package_name": "com.myunique.kidsgame"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "856969822003-b20jpbvgrflq0j1god0c72u3pfk4q632.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myunique.kidsgame",
+            "certificate_hash": "02e48158fcae8103b66706bd8ff3dedbce67a456"
+          }
+        },
+        {
+          "client_id": "856969822003-s5kkoot6ujmjtc0sf5mvi9l053e847ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myunique.kidsgame",
+            "certificate_hash": "247938df05a2d726b2bcb638b62c118941aea2d9"
+          }
+        },
+        {
+          "client_id": "856969822003-6hb359jscj50t0e9bfthv2ka63pundgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyB33o9N5p1Zfcqy8G75km2yEIZ8hIZXpmk"
+          "current_key": "AIzaSyBDZq1bLLX18jA7OUHuvaQEZACUNqtyadU"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856969822003-6hb359jscj50t0e9bfthv2ka63pundgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
